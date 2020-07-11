@@ -13,4 +13,4 @@
 - LinkedIn: [Masaki Kozuki](https://www.linkedin.com/in/masaki-kozuki/)
 
 ## Blogs
-- See the lists in ./Blogs.md
+- See the lists in [Blogs.md](./Blogs.md)
