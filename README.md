@@ -13,4 +13,4 @@
 - LinkedIn: [Masaki Kozuki](https://www.linkedin.com/in/masaki-kozuki/)
 
 ## Blog
-- See the lists in [Blogs.md](https://github.com/crcrpar/crcrpar/blob/master/Blogs.md)
+- See the lists in [posts.md](https://github.com/crcrpar/crcrpar/blob/master/posts.md)
