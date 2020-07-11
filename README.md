@@ -12,5 +12,5 @@
 - Twitter: [@crcrpar](https://twitter.com/crcrpar)
 - LinkedIn: [Masaki Kozuki](https://www.linkedin.com/in/masaki-kozuki/)
 
-## Blogs
-- See the lists in [Blogs.md](./Blogs.md)
+## Blog
+- See the lists in [Blogs.md](https://github.com/crcrpar/crcrpar/blob/master/Blogs.md)
