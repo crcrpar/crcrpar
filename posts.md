@@ -1,6 +1,8 @@
 Order: New -> Old
 
 # English posts
+- [CppCon 2019: "Back to Basics: RAII and the Rule of Zero"](https://www.notion.so/crcrpar/CppCon-2019-Back-to-Basics-RAII-and-the-Rule-of-Zero-6c2dc2c4165740bd9dee93e2ecc8b2f5)
+- [CppCon2018: The C++ Execution Model](https://www.notion.so/crcrpar/CppCon2018-The-C-Execution-Model-92e99b65c0774902b9f44ca743b732c0)
 - [Move Semantics - `rvalue` & `lvalue`](https://www.notion.so/crcrpar/Move-Semantics-l-r-value-42554dfc30c542b3a9e028e2767b1e4c)
 - [Google Bench](https://www.notion.so/crcrpar/Google-Bench-2da18426977b493983c0157c41a17b8f)
 - [C++ Better Practice](https://www.notion.so/crcrpar/C-Better-Practice-6a5260f4ff244b8a9eb8b3552de8f868)
