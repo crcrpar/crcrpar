@@ -1,6 +1,5 @@
 # Hi, I'm Masaki!
 
-- 👨‍🎓 Master's student - Machine Learning
 - 👨‍💻 OSS contributor - [PyTorch](https://github.com/pytorch/pytorch), [Optuna](https://github.com/optuna/optuna), etc.
 
 ## Interests
