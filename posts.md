@@ -14,3 +14,5 @@ Order: New -> Old
 - [海外でインターン中にShelter in Place Order](https://www.notion.so/crcrpar/Shelter-in-Place-Order-7531b449a4bc4b6c806c7aec0ea4a136)
 - [ベイエリアに来ました](https://www.notion.so/crcrpar/d916a5073f0141b791edf3845e392324)
 - [Retrospective 2019](https://www.notion.so/crcrpar/Retrospective-2019-abed5e48bc8e4f70a31544b9b3aba253)
+- [2021振り返り](https://www.notion.so/crcrpar/2021-e9fd79436472403c8fe7160a437f40e5)
+- [Retrospective 2020](https://crcrpar.notion.site/Retrospective-2020-09d70fbb9ac64facb37b6d5d21280c7e)
